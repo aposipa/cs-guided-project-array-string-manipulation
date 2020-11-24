@@ -20,6 +20,8 @@ Output: -1
 Explanation:
 There is no index that satisfies the conditions in the problem statement.
 """
+nums =[1,7,3,6,5,6]
 def pivot_index(nums):
-    # Your code here
+    pass
+
 
